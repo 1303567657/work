@@ -1,0 +1,9 @@
+-
+  method: get
+  id: https://www.youxinpai.com/aaaaaaaaaaaaaaaaaaaaaaa
+  saonian: hahaone
+
+-
+  method: post
+  id: https://www.youxinpai.com/getHomeData?cityId=203
+  saonian: hahatwo
